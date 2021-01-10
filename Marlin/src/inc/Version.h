@@ -73,7 +73,7 @@
  * Define a generic printer name to be output to the LCD after booting Marlin.
  */
 #ifndef MACHINE_NAME
-  #define MACHINE_NAME "3D Printer"
+  #define MACHINE_NAME "FlyingBear Ghost 5"
 #endif
 
 /**
@@ -97,8 +97,7 @@
    * documentation about a specific Marlin release. Displayed in the Info Menu.
    */
 #ifndef WEBSITE_URL
-  //#define WEBSITE_URL "https://marlinfw.org"
-  #define WEBSITE_URL "https://github.com/Sergey1560/Marlin_FB4S"
+  #define WEBSITE_URL "https://marlinfw.org"
 #endif
 
 /**
